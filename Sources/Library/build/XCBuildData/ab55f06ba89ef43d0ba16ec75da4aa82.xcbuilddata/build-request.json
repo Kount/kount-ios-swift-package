@@ -1,0 +1,47 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "513e54d3b551b1807a37efb8eb98ff6482f925257cd14af5b425342b4b2f67a3"
+    }
+  ],
+  "containerPath" : "/Users/ec2-user/builds/M_wdsDFR/0/kount/device/mobile/kount-ios-sdk-source/Library/KountDataCollector.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "BUILD_DIR" : "/Users/ec2-user/builds/M_wdsDFR/0/kount/device/mobile/kount-ios-sdk-source/out/Build/Products",
+          "BUILD_ROOT" : "/Users/ec2-user/builds/M_wdsDFR/0/kount/device/mobile/kount-ios-sdk-source/out/Build/Products",
+          "ENABLE_BITCODE" : "NO",
+          "EXCLUDED_ARCHS" : "arm64",
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "SDKROOT" : "iphonesimulator17.5",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.XcodeDefault"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      },
+      "toolchainOverride" : "com.apple.dt.toolchain.XcodeDefault"
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
