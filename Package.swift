@@ -25,6 +25,6 @@ let package = Package(
         .testTarget(
             name: "KountDataCollectorPackageTests",
             dependencies: ["KountDataCollectorPackage"]),
-        .binaryTarget(name: "KountDataCollector", path: "./Sources/KountDataCollector.xcframework"),
+        .binaryTarget(name: "KountDataCollector", path: "./Sources/KountSDK.xcframework"),
     ]
 )

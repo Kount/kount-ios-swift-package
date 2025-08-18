@@ -1,3 +1,3 @@
 struct KountDataCollectorPackage {
-    var text = "Hello, World!"
+    var kountSDKVersion = "v5.0.0"
 }
