@@ -1,8 +1,7 @@
 Swift Package Manager Client SDK
 ====================
 
-Kount's Swift Package Manager (SPM) SDK helps integrate Kount's fraud fighting solution into
-your iOS app.
+Kount's Swift Package Manager (SPM) SDK helps integrate Kount's fraud fighting solution into your iOS app.
 
 ## Installation
 
