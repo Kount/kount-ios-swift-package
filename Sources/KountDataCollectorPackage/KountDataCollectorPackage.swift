@@ -1,3 +1,3 @@
 struct KountDataCollectorPackage {
-    var kountSDKVersion = "v5.0.0"
+    var kountSDKVersion = "v6.0.0"
 }
